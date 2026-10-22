@@ -1,0 +1,28 @@
+{
+  "name": "thrishna-portfolio",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Minimal, premium 3D developer portfolio built with React, MUI and React Three Fiber.",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@emotion/react": "^11.13.0",
+    "@emotion/styled": "^11.13.0",
+    "@fontsource-variable/space-grotesk": "^5.1.0",
+    "@mui/icons-material": "^7.0.0",
+    "@mui/material": "^7.0.0",
+    "@react-three/fiber": "^8.17.10",
+    "framer-motion": "^11.11.0",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "three": "^0.170.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.3.4",
+    "vite": "^6.0.0"
+  }
+}
